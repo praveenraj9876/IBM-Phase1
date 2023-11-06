@@ -1,8 +1,8 @@
-#AI_PHASE wise project_Submission
-#Predicting_Stock_Prices using Machine_Learning
+#  AI_PHASE wise project_Submission
+#  Predicting_Stock_Prices using Machine_Learning
 Data Source:(https://www.kaggle.com/datasets/prasoonkottarathil/microsoft-lifetime-stocks-dataset)
 Reference: Kaggle.com
-# How to run the code and any dependency:
+#  How to run the code and any dependency:
   Stock Price Prediction using Machine Learning 
 # How to run:
   install jupyter notebook in your comment prompt
@@ -56,7 +56,7 @@ pip install -r requirements.txt
 1. Clone this repository to your local machine:
 
 bash
-git clone [https://github.com/12-arun05/IBM-Phase1.git]
+git clone [https://github.com/praveenraj9876/IBM-Phase1.git]
 cd stock-price-prediction
 
 
@@ -173,7 +173,7 @@ pip install -r requirements.txt
 1. Clone this repository to your local machine:
 
 
-git clone [https://github.com/12-arun05/IBM-Phase1.git]
+git clone [https://github.com/praveenraj9876/IBM-Phase1.git]
 cd stock-price-prediction
 
 
